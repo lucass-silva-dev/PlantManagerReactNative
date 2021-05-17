@@ -7,7 +7,7 @@ TypeScript
 🚀 Getting started
 Clone the project and access the folder
 
-$ git clone https://github.com/birobirobiro/nlw-05-plantmanager.git && cd nlw-05-plantmanager
+$ git clone https://github.com/lucass-silva-dev/PlantManagerReactNative
 Follow the steps below
 
 # Install the dependencies
